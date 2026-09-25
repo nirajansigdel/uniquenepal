@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /admin
+Disallow: /login
+Disallow: /register
+Disallow: /dashboard
+Disallow: /cart
+Disallow: /checkout
+Disallow: /search
+Disallow: /wp-admin
+Disallow: /storage
+Disallow: /vendor
+Disallow: /api
+Disallow: /config
+Disallow: /*?
+
+Allow: /
+
+Sitemap: https://uniquenepal.com/sitemap.xml
